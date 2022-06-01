@@ -52,3 +52,5 @@ cards.forEach((el, i) => {
     ).textContent = ` ${cartList.length}`;
   });
 });
+
+//comment 
